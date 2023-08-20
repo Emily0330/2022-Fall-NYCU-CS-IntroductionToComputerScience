@@ -34,7 +34,7 @@ int main(void)
 	}
 	//can't be express as sum of two prime numbers
 	if (count == 0) {
-		printf("The number can¡¦t be express as sum of two prime numbers.\n");
+		printf("The number canÂ¡Â¦t be express as sum of two prime numbers.\n");
 	}
 	return 0;
 }
