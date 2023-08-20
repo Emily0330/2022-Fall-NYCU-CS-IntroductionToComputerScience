@@ -40,7 +40,7 @@ void morse_code_decoder() {
 					co += 1;
 				}
 			}
-			//check 6~9¡B0
+			//check 6~9Â¡B0
 			if (co == 5) {
 				result[count] = 0;
 			}
