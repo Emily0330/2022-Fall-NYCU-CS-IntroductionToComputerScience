@@ -20,4 +20,7 @@ int main(void) {
 	printf("\n");
 	system("pause");
 	return 0;
-}int function(int a, int b) {	return a * b;}
+}
+int function(int a, int b) {
+	return a * b;
+}
